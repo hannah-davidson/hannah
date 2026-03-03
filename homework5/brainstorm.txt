@@ -1,0 +1,29 @@
+**Brainstorm**
+
+1. 5 topics:
+- tornadoes
+- space weather
+- earthquakes
+- tide pool animal populations
+- highway engineering?
+
+
+2. Summaries of 3:
+https://www.ncei.noaa.gov/stormevents/ <- This database contains files downloadable in CSV format for 
+several different kinds of extreme weather events across the country. You can specify by state, county, and extreme weather
+event type. You can also select a single day and view all of the extreme events happening. This could be helpful if I 
+choose to focus my final project on tornadoes.
+
+https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.hazards:G012153 <- Global earthquake
+database - could be useful for a project that is analyzing certain facets/data about earthquakes.
+
+https://doi.pangaea.de/10.1594/PANGAEA.987810 <- this article discusses nudibranch populations
+in California tide pools. I could use this if focusing on tide pool animal populations (specifically nudibranchs.)
+
+3. I could use functions and dictionaries to explore extreme weather data. I could track my project progress using version
+control via Git/GitHub.
+
+4. Ambitious: Creating an interactive map of all tornado events in the continental US over the course of the last 5 years, including 
+EF scale rating, maximum wind speed, and a location tag.
+Realistic: Creating a simple plot of tornado events in the continental US, maybe grouping 1 or 2 categories,
+like EF scale rating or state.
